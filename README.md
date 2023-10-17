@@ -1,0 +1,2 @@
+# minefield
+A Javascript game
